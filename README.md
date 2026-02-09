@@ -36,7 +36,6 @@ Start server using : node src/script.js<br>
 Future Improvements:<br>
 • Email notifications<br>
 • Attendance tracking<br>
-• Admin analytics<br>
 
 Author:<br>
 Puneet Sethiya
