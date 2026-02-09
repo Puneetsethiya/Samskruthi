@@ -18,20 +18,20 @@ Features:<br>
 • Dashboard for event management<br>
 
 Tech Stack:<br>
-MongoDB<br>
-Express.js<br>
-Node.js<br>
-HTML<br>
-CSS<br>
-JavaScript<br>
+• MongoDB<br>
+• Express.js<br>
+• Node.js<br>
+• HTML<br>
+• CSS<br>
+• JavaScript<br>
 
 Project Entry Point:
 src/script.js
 
 Run Locally:<br>
-Clone repository<br>
-Run npm install<br>
-Start server using : node src/script.js<br>
+• Clone repository<br>
+• Run npm install<br>
+• Start server using : node src/script.js<br>
 
 Future Improvements:<br>
 • Email notifications<br>
